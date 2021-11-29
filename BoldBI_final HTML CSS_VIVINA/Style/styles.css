@@ -1,0 +1,283 @@
+.bg{
+    width: 100%;
+    height: 570px;
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+.field:hover{
+    background-color: chocolate;
+}
+
+.chat{
+    position: fixed;
+    bottom:22px;
+    z-index: 10000;
+    float: right;
+    right: 21px;
+    cursor: pointer;
+    vertical-align:middle;
+    margin: auto;
+}
+.arrow{
+    float: left;
+    background-position: center center;
+    position: fixed;
+}
+
+.images{
+    width: 40px;
+    height: 55.1px;
+    margin: 0 auto;
+}
+#form3{
+    width: 400px;
+    height:30px;
+    text-align: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    
+}
+.form4{
+    width: 400px;
+    height:30px;
+    text-align: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 4px;
+    ;
+}
+.form6{
+    width: 400px;
+    height:45px;
+    text-align: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 4px;
+    border-color: gainsboro;
+}
+#button{
+    background-color: orangered;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 400px;
+    height:30px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 4px;
+    
+}
+#get{
+    text-decoration: none;
+}
+
+#get:link{
+    color: orangered;
+}
+ p{
+     font-size: 16px;
+     font-family: sans-serif;
+     color: #3c4d6f;
+ }
+
+ #office{
+     text-align: center;
+     font-size: 36px;
+     font-family: sans-serif;
+     color: #283a5e;
+     margin-top: 30px;
+ }
+ head{
+     font-family: sans-serif;
+     color: black;
+     font-size: 23px;
+     line-height: 30px;
+ }
+
+ .main{
+     width: 50%;
+     float: left;
+     margin-right: 5%;
+     margin-left: 50px;
+     margin-top: 20px;
+ }
+ .text{
+     text-decoration: none;
+ }
+ .text:hover{
+     color: orangered;
+ }
+
+ 
+
+ .form{
+     background-color: white;
+     border:1px solid gainsboro;
+     width: 40%;
+     height: 90%;
+     position: relative;
+     float: left;
+    
+     margin-right: 5px;
+     margin-top: 10px;
+     text-align: center;
+     border-radius: 8px;
+ }
+
+ #location{
+     border:1px solid black;
+     width: 30%;
+     float: left;
+     height: 400px;
+     text-align: left;
+     margin-right: 1.5%;
+     margin-left: 1.5%;
+     margin-bottom: 1.5%;
+     margin-top: 1.5%;
+ }
+ .image{
+    width:100%;
+    height:auto;}
+
+ #h:hover{
+     color: coral;
+ }
+
+ .footer{
+     border-width: 50px;
+     border: 1px solid white;
+     padding: 50px;
+     margin-left: 400px;
+     margin-right: 400px;
+ }
+
+ #follow{
+     font-size: 25px;
+     font-family: sans-serif;
+     color: #666;
+     font-weight: bold;
+     margin-left: 70px;
+ }
+ #support2{
+    margin-left: 0;
+    margin-right: 10px;
+    margin-top: 5px;
+    width:80px;
+    height: 20px;}
+    
+
+ a:link{
+     color: black;
+ }
+
+ a.hover{
+     color: maroon;
+     text-align: center;
+ }
+
+ li:hover{
+     color:orange;
+ }
+ span{
+     color: orangered;
+
+ }
+ .mark:hover{
+     color: orangered;
+ }
+
+ .last{
+     display: flex;
+     list-style-type: none;
+     margin-left: 296px;
+ }
+
+ #hover{
+     color: burlywood;
+ }
+
+ #man{
+     float: right;
+ }
+
+ .details{
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     margin: 5px;
+     position: relative;
+     left: 500px;
+     flex-basis:max-content;
+     width:200px;
+ }
+
+ .logo{
+     position: absolute;
+     left: 100px;
+ }
+
+ .copyright{
+     margin: 50px;
+     text-align: center;
+ }
+ .footer{
+     display: flex;
+     gap:50px;
+     margin: 5px;
+     flex-basis:content;
+ }
+ .socialmedia{
+    text-align: center;
+    display:flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    color: #283a5e;
+    margin-top: 50px;
+
+}
+.details h3{
+    font-size: 17px;
+    color: #283a5e;
+    text-transform: capitalize;
+    padding:0;
+    margin: 3px;
+}
+.details p{
+    text-transform:capitalize ;
+    cursor: pointer;
+    font-size: 15px;
+    padding:0;
+    margin: 3px;
+}
+.details p:hover{
+       color:orangered;
+}
+.img img{
+    width: 30px;
+}
+.detailsbox{
+    flex-basis:max-content;
+
+}
+#end:hover{
+    color:brown;
+}
+#end{
+    color: orangered;
+
+}
+
+.head{
+    margin: 10px;
+}
+.address{
+    margin:10px;
+    
+}
